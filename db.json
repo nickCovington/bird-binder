@@ -1,0 +1,94 @@
+{
+  "locations": [
+    {
+      "id": 0,
+      "name": "Northern Flicker",
+      "city": "Chicago",
+      "state": "IL",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Northern_Flicker.jpg/640px-Northern_Flicker.jpg",
+      "wingspan": 4,
+      "migratory": true,
+      "predatory": true
+    },
+    {
+      "id": 1,
+      "name": "Purple Martin",
+      "city": "Mordor",
+      "state": "Middle Earth",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Purple_martins_%28Progne_subis%29_Ford_Bay_Marina_09.jpg/640px-Purple_martins_%28Progne_subis%29_Ford_Bay_Marina_09.jpg",
+      "wingspan": 5,
+      "migratory": false,
+      "predatory": true
+    },
+    {
+      "id": 2,
+      "name": "American Goldfinch",
+      "city": "Juneau",
+      "state": "AK",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carduelis-tristis-002.jpg/640px-Carduelis-tristis-002.jpg",
+      "wingspan": 1,
+      "migratory": false,
+      "predatory": false
+    },
+    {
+      "id": 3,
+      "name": "Cooper's Hawk",
+      "city": "Chicago",
+      "state": "IL",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Accipiter_cooperii_JRVdH_02.jpg/640px-Accipiter_cooperii_JRVdH_02.jpg",
+      "wingspan": 4000,
+      "migratory": true,
+      "predatory": false
+    },
+    {
+      "id": 4,
+      "name": "Northern Cardinal",
+      "city": "Gary",
+      "state": "IN",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg/640px-Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+      "wingspan": 12345,
+      "migratory": true,
+      "predatory": false
+    },
+    {
+      "id": 5,
+      "name": "Anna's Hummingbird",
+      "city": "Tuscon",
+      "state": "AZ",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Juvenile_-_Anna%27s_Hummingbird_-_Sarah_Stierch_-_C.jpg/640px-Juvenile_-_Anna%27s_Hummingbird_-_Sarah_Stierch_-_C.jpg",
+      "wingspan": 54321,
+      "migratory": true,
+      "predatory": false
+    },
+    {
+      "id": 6,
+      "name": "Cactus Wren",
+      "city": "Death Valley",
+      "state": "CA",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Campylorhynchus_brunneicapillus_3.jpg/640px-Campylorhynchus_brunneicapillus_3.jpg",
+      "wingspan": 999,
+      "migratory": false,
+      "predatory": true
+    },
+    {
+      "id": 7,
+      "name": "Verdin",
+      "city": "Amherst",
+      "state": "MA",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Auriparus_flaviceps_1_%281%29.jpg/640px-Auriparus_flaviceps_1_%281%29.jpg",
+      "wingspan": 876,
+      "migratory": true,
+      "predatory": false
+    },
+    {
+      "id": 8,
+      "name": "Northern Mockingbird",
+      "city": "Louisville",
+      "state": "KY",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mimus-polyglottos-002.jpg/640px-Mimus-polyglottos-002.jpg",
+      "wingspan": 544,
+      "migratory": false,
+      "predatory": true
+    }
+  ]
+}
